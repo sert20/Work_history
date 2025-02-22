@@ -1,4 +1,6 @@
-This folder contains Sergio Turrado's Master's Thesis "Numerical modeling of the atmosphere of exoplanet Trappist-1e".
+# What's in this folder?
+This folder contains Sergio Turrado's Master's Thesis "Numerical modeling of the atmosphere of exoplanet Trappist-1e",
+within the Master's Degree in Astrophysics (60 ECTS) at Universidad Complutense de Madrid (Spain).
 
 The file "Master's_Thesis_ES.pdf" is the complete text of the Thesis in its original version in Spanish.
 A version translated to English will be available soon.
